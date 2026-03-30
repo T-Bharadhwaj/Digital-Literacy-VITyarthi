@@ -1,1 +1,11 @@
-
+Prevention Guide: Stay safe from cybercrime
+To protect yourself from cybercrimes like UPI fraud, ransomware, it is essential to follow safe online practices.
+Enable Multi-Factor Authentication (MFA) on all university portals, email accounts, and social media to add an extra layer of security beyond passwords.
+Use strong, unique passwords for every account; consider using a trusted password manager to keep track of them safely.
+Verify UPI payment requests before entering your PIN. Remember: You only need to enter your UPI PIN to SEND money, never to receive it.
+Set daily UPI transaction limits and enable 'SMS alerts' for all banking transactions to quickly spot any unauthorized activity.
+Avoid using public Wi-Fi in cafes or libraries for sensitive tasks like online banking or entering personal details; use a VPN or mobile data instead.
+Be cautious of 'Job Offer' or 'Scholarship' scams on WhatsApp/Telegram that ask for an upfront 'processing fee' or sensitive documents.
+Regularly update your smartphone's OS and apps to ensure you have the latest security patches against known vulnerabilities.
+Think before you click on shortened links in SMS (Smishing) or emails that claim your account is blocked or offer 'free' rewards.
+Reporting: Immediately report any cyber fraud or harassment at the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930.
