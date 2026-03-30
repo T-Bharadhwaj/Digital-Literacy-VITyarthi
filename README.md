@@ -47,7 +47,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSd4vDQRW5a0ejHjhUC1JoYkbPtNOoXM-Cao1PtV
 ---
 
 ## About Me
-I am a VIT University, Bhopal student persuing Btech in CSE.I had learned programming languages like Python, Java, C++, JasaScipt, CSS, React and MongoDB.
+I am a student of VIT Bhopal University, persuing B-tech in CSE.I had learned programming languages like Python, Java, C++, JasaScipt.
 
 ---
 
