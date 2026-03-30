@@ -5,6 +5,9 @@ Use strong, unique passwords for every account; consider using a trusted passwor
 Verify UPI payment requests before entering your PIN. Remember: You only need to enter your UPI PIN to SEND money, never to receive it.
 Set daily UPI transaction limits and enable 'SMS alerts' for all banking transactions to quickly spot any unauthorized activity.
 Avoid using public Wi-Fi in cafes or libraries for sensitive tasks like online banking or entering personal details; use a VPN or mobile data instead.
+Avoid clicking on unknown or suspicious links received through messages, emails, or social
+media. These links may lead to fake websites designed to steal your information. Only use official
+apps and websites for financial transactions.
 Be cautious of 'Job Offer' or 'Scholarship' scams on WhatsApp/Telegram that ask for an upfront 'processing fee' or sensitive documents.
 Regularly update your smartphone's OS and apps to ensure you have the latest security patches against known vulnerabilities.
 Think before you click on shortened links in SMS (Smishing) or emails that claim your account is blocked or offer 'free' rewards.
